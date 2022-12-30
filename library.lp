@@ -1,0 +1,10 @@
+(librepcb_library ada7156a-41a9-4a65-9a43-957210e40b32
+ (name "Espressif")
+ (description "IoT chips by Espressif (unofficial).")
+ (keywords "espressif,esp8266,esp32")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2022-12-30T18:52:56Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Espressif.lplib")
+)
