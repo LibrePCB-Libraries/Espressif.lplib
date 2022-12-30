@@ -1,0 +1,10 @@
+(librepcb_package_category 571bdab6-7d55-425c-9233-f7c9e7352d00
+ (name "Espressif")
+ (description "")
+ (keywords "")
+ (author "Danilo B.")
+ (version "0.1")
+ (created 2022-12-30T18:58:36Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
