@@ -1,5 +1,5 @@
 (librepcb_library ada7156a-41a9-4a65-9a43-957210e40b32
- (name "Espressif")
+ (name "Espressif Systems")
  (description "IoT chips by Espressif (unofficial).")
  (keywords "espressif,esp8266,esp32")
  (author "LibrePCB")
