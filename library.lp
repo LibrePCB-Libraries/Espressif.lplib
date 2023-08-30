@@ -7,5 +7,5 @@
  (created 2022-12-30T18:52:56Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Espressif.lplib")
- (manufacturer "")
+ (manufacturer "Espressif Systems")
 )
