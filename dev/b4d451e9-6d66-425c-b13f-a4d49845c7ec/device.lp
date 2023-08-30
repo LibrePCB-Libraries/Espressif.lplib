@@ -37,4 +37,6 @@
  (pad e5e48fcc-f292-44f3-8606-ce4fc464f85e (signal 88900af5-1b43-4194-a40a-98b5a1355b1a))
  (pad e93b3f58-1e5b-4286-a1d1-373f2d7b6f2c (signal 10e502b6-6d62-41be-b689-e80b52818e7c))
  (pad eecaf609-45b3-4dd2-a48e-2dc12f6440e0 (signal 47778558-b543-44a8-ad32-e697fc3a9cbd))
+ (part "ESP32-C3-WROOM-02U-N4" (manufacturer "Espressif Systems")
+ )
 )

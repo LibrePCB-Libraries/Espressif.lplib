@@ -9,7 +9,7 @@
  (generated_by "")
  (category 7c698c64-e0f4-4885-bc29-566c4828071e)
  (schematic_only false)
- (default_value "{{DEVICE or COMPONENT}}")
+ (default_value "{{MPN or DEVICE or COMPONENT}}")
  (prefix "U")
  (signal 47778558-b543-44a8-ad32-e697fc3a9cbd (name "IO4/MTMS") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
