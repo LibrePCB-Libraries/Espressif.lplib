@@ -3,7 +3,7 @@
  (description "- 2.4 GHz Wi­Fi (802.11 b/g/n) and Bluetooth® 5 module\n- Built around ESP32­C3 series of SoCs, RISC­V single­core microprocessor\n- 4 MB flash, 15 GPIOs\n- On­board PCB antenna (ESP32-C3-WROOM-02) or external antenna connector (ESP32-C3-WROOM-02U)")
  (keywords "esp32,esp32-c3,wroom,ESP32-C3-WROOM-02,ESP32-C3-WROOM-02U")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.1.1")
  (created 2022-12-30T19:21:48Z)
  (deprecated false)
  (generated_by "")

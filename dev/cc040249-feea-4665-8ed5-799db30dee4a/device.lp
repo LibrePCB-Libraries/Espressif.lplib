@@ -3,7 +3,7 @@
  (description "- 2.4 GHz Wi­Fi (802.11 b/g/n) and Bluetooth® 5 module\n- Built around ESP32­C3 series of SoCs, RISC­V single­core microprocessor\n- 4 MB flash, 15 GPIOs\n- On­board PCB antenna\n- Ambient temperature range: -40 ~ 105 °C")
  (keywords "esp32,esp32-c3,wroom")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2023-01-05T20:40:18Z)
  (deprecated false)
  (generated_by "")
