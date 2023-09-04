@@ -3,7 +3,7 @@
  (description "IoT chips by Espressif (unofficial).")
  (keywords "espressif,esp8266,esp32")
  (author "LibrePCB")
- (version "0.2")
+ (version "0.2.1")
  (created 2022-12-30T18:52:56Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Espressif.lplib")
