@@ -1,7 +1,7 @@
 (librepcb_device 6f163fee-8f23-4721-ba3c-1ec917470bea
  (name "ESP32-DevKitC-32UE")
- (description "")
- (keywords "")
+ (description "ESP32-DevKitC board with ESP32-WROOM-32UE chip\n- 2.4 GHz WiFi + Bluetooth ® + Bluetooth LE module\n- Built around ESP32 series of SoCs, Xtensa® dualcore 32bit LX6 microprocessor\n- 4/8/16 MB flash available\n- 26 GPIOs, rich set of peripherals\n- external antenna connector")
+ (keywords "esp32,wroom,ipex")
  (author "Samuel Hafen")
  (version "0.1")
  (created 2024-01-21T13:56:51Z)

@@ -1,7 +1,7 @@
 (librepcb_device cdc81f68-2b2d-4eb4-a99d-fb8b5fe8c670
  (name "ESP32-DevKitC-VE")
  (description "ESP32-DevKitC board with ESP32-WROVER-E chip")
- (keywords "")
+ (keywords "esp32,wrover")
  (author "Samuel Hafen")
  (version "0.1")
  (created 2024-01-21T14:32:57Z)

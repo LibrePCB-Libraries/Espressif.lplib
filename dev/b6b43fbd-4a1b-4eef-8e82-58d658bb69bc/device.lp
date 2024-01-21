@@ -1,7 +1,7 @@
 (librepcb_device b6b43fbd-4a1b-4eef-8e82-58d658bb69bc
  (name "ESP32-DevKitC-DA")
- (description "ESP32-DevKitC board with ESP32-WROOM-DA chip")
- (keywords "")
+ (description "ESP32-DevKitC board with ESP32-WROOM-DA chip\n- 2.4 GHz WiFi + Bluetooth ® + Bluetooth LE module\n- Built around ESP32 series of SoCs, Xtensa® dualcore 32bit LX6 microprocessor\n- 8 MB flash\n- 24 GPIOs, rich set of peripherals\n- Onboard dual PCB antennas")
+ (keywords "esp32,wroom")
  (author "Samuel Hafen")
  (version "0.1")
  (created 2024-01-21T14:39:17Z)
