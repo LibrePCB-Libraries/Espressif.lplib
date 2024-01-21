@@ -1,7 +1,7 @@
 (librepcb_package 5ffb6611-7652-49fa-a0c3-faabefdcfdce
  (name "ESP32-DevKitC-IPEX")
- (description "")
- (keywords "")
+ (description "ESP32-DevKitC board for different ESP32 chips")
+ (keywords "esp32,devkitc,evaluation")
  (author "Samuel Hafen")
  (version "0.1")
  (created 2024-01-21T14:00:25Z)

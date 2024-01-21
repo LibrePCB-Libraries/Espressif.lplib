@@ -1,7 +1,7 @@
 (librepcb_package 4ba0a5ba-0b9e-449d-96e9-102e230bbcff
  (name "ESP32-DevKitC")
- (description "")
- (keywords "")
+ (description "ESP32-DevKitC board for different ESP32 chips")
+ (keywords "esp32,devkitc,evaluation")
  (author "Samuel Hafen")
  (version "0.1")
  (created 2024-01-21T12:19:27Z)
