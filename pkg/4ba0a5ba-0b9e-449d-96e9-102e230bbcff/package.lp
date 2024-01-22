@@ -340,7 +340,7 @@
    )
   )
   (pad ed61d0ab-c2e0-44a1-8135-a28d863b4f26 (side top) (shape roundrect)
-   (position -12.7 22.86) (rotation 0.0) (size 1.5 1.5) (radius 1.0)
+   (position -12.7 22.86) (rotation 0.0) (size 1.5 1.5) (radius 0.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
    (package_pad dead60a9-d41b-4fc7-86d3-9d10f93e77e6)
    (hole e46774b6-35f0-4efa-9e7c-9ae1c0f81874 (diameter 1.0)
