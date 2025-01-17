@@ -52,7 +52,7 @@
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad ea39246e-940d-4548-a61a-81a7aa89623e (side top) (shape roundrect)
-   (position -12.7 22.86) (rotation 0.0) (size 1.7 1.7) (radius 1.0)
+   (position -12.7 22.86) (rotation 0.0) (size 1.7 1.7) (radius 0.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
    (package_pad dead60a9-d41b-4fc7-86d3-9d10f93e77e6)
    (hole 3857b2ef-b679-4a93-8b14-adeafc5f6e25 (diameter 0.9)
