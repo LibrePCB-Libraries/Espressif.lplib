@@ -543,4 +543,7 @@
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved missing_footprint_3d_model
+  (footprint f74f4540-6c9a-44de-bc00-4196329b4d9d)
+ )
 )
