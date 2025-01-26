@@ -5,7 +5,7 @@
  (author "Samuel Hafen")
  (version "0.1")
  (created 2024-01-21T14:39:17Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category e96d0dda-3100-4e68-8c33-e2a5bc80428b)
  (component 4ce52828-034b-4305-986d-4c9cb649c642)
