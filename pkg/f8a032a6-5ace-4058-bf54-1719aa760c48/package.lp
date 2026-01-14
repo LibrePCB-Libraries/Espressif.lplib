@@ -3,7 +3,7 @@
  (description "- 2.4 GHz Wi-Fi (802.11 b/g/n) and Bluetooth® 5 (LE) module\n- Built around ESP32-S3R8V SoC, Xtensa® dual-core 32-bit LX7 microprocessor\n- Flash up to 32 MB (Octal), 8 MB PSRAM (Octal)\n- 33 GPIOs, rich set of peripherals\n- On-board PCB antenna")
  (keywords "esp32,esp32-s3,wroom")
  (author "Tubbles")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-07-07T14:35:41Z)
  (deprecated false)
  (generated_by "")
@@ -418,4 +418,5 @@
  (approved missing_footprint_3d_model
   (footprint 2ffafc4a-1db9-4e6e-a27f-4480e018842e)
  )
+ (approved origin_not_in_center)
 )
